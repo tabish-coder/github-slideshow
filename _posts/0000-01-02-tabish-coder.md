@@ -1,6 +1,5 @@
----
-layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+That's my page bro.
+Heyy its me Md. Shahroz
 Use the left arrow to go back!
